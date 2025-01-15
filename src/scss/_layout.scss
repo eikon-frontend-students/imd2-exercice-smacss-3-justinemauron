@@ -1,0 +1,22 @@
+.l-header {
+  background-image: url("../img/sea-and-hills.png");
+  width: 100%;
+  height: 437px;
+  display: flex;
+  align-items: center;
+}
+
+.l-header-bar {
+  height: 40px;
+  background-color: #ffb500;
+  margin-bottom: -40px;
+}
+
+.l-pattern {
+  background-image: url(../img/pattern.png);
+}
+
+.l-footer-border {
+  background: #ffb500;
+  height: 10px;
+}
